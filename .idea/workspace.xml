@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c03f71f-2cdf-44df-ba9f-bdc42c1f5fda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\work\repository" />
+        <option name="mavenHome" value="D:/2018Studying/java/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\2018Studying\java\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rdtSXazGwao6ifbemHXm3Dm2OP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/tw/workspace/myeclipse/诚信签测试demo/demo" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demogateway" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.feginconsumer.controller" />
+      <recent name="com.example.demoprovider.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2020\demo-springcloud\fegin-consumer\src\main\resources" />
+      <recent name="D:\2020\demo-springcloud\nacos\demo-consumer\src\main\resources" />
+      <recent name="D:\2020\demo-springcloud\nacos\demo-consumer\src\main\java\com\example\democonsumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoGatewayApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demogateway.Test" />
+      <module name="demo-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demogateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.democonsumer.DemoConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demogateway.DemoGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demoprovider.DemoProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSpringcloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-springcloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demospringcloud.DemoSpringcloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeginConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fegin-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.feginconsumer.FeginConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.nacos.NacosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c03f71f-2cdf-44df-ba9f-bdc42c1f5fda" name="Default Changelist" comment="" />
+      <created>1619317794922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619317794922</updated>
+      <workItem from="1619317797424" duration="15725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="54" key="#com.intellij.ide.util.MemberChooser" timestamp="1619337653760">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="54" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1619337653760" />
+    <state x="411" y="212" width="459" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1619338013474">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="411" y="212" width="459" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1619338013474" />
+    <state x="452" y="119" key="FileChooserDialogImpl" timestamp="1619328885342">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="452" y="119" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1619328885342" />
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1619323003165" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1619323003165" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1619323003165" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1619323003165" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.1.bottom/62.0.1218.720@62.0.1218.720" timestamp="1619321831247" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.1.center/62.0.1218.720@62.0.1218.720" timestamp="1619321831247" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.1.left/62.0.1218.720@62.0.1218.720" timestamp="1619321831247" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1619338170446">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1619338170446" />
+    <state width="1175" height="357" key="GridCell.Tab.1.right/62.0.1218.720@62.0.1218.720" timestamp="1619321831247" />
+    <state x="348" y="98" width="568" height="502" key="StructurePopup" timestamp="1619338342022">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="98" width="568" height="502" key="StructurePopup/0.0.1280.689@0.0.1280.689" timestamp="1619338342022" />
+    <state x="393" y="102" width="540" height="524" key="StructurePopup/62.0.1218.720@62.0.1218.720" timestamp="1619322977943" />
+    <state x="62" y="110" width="1218" height="584" key="new project wizard" timestamp="1619321899810">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="56" y="105" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1619318502523" />
+    <state x="62" y="110" width="1218" height="584" key="new project wizard/62.0.1218.720@62.0.1218.720" timestamp="1619321899810" />
+    <state x="455" y="320" width="707" height="649" key="search.everywhere.popup" timestamp="1619336650895">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="455" y="320" width="707" height="649" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1619336650895" />
+    <state x="495" y="334" width="672" height="678" key="search.everywhere.popup/62.0.1218.720@62.0.1218.720" timestamp="1619322638961" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nacos/demo-consumer/src/main/java/com/example/democonsumer/controller/TestConsumerController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.2.5.RELEASE/spring-cloud-commons-2.2.5.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerAutoConfiguration.java</url>
+          <line>81</line>
+          <properties class="org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration.LoadBalancerInterceptorConfig" method="ribbonInterceptor">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

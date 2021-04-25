@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos/demo-consumer/demo-consumer.iml" filepath="$PROJECT_DIR$/nacos/demo-consumer/demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-gateway/demo-gateway.iml" filepath="$PROJECT_DIR$/demo-gateway/demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/demo-provider/demo-provider.iml" filepath="$PROJECT_DIR$/nacos/demo-provider/demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-springcloud.iml" filepath="$PROJECT_DIR$/demo-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fegin-consumer/fegin-consumer.iml" filepath="$PROJECT_DIR$/fegin-consumer/fegin-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/nacos.iml" filepath="$PROJECT_DIR$/nacos/nacos.iml" />
+    </modules>
+  </component>
+</project>

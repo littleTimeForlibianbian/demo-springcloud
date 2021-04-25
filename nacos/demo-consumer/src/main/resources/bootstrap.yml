@@ -1,0 +1,22 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /nacos-consumer
+spring:
+  application:
+    name: nacos-consumer
+  cloud:
+    nacos:
+      discovery:
+        ##注册到配置中心
+        server-addr: 192.168.209.128:8848
+      config:
+        ##从配置中心读取配置信息
+        server-addr: 192.168.209.128:8848
+        file-extension: yml
+        ##不写表示默认分组
+        #group:
+        #extension-configs:   nacos-consumer,nacos-consumer-dev
+  ##TODO  始终读取不到 nacos-consumer-dev.yml文件
+  profiles:
+    active: dev
