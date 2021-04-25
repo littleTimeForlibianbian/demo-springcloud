@@ -9,7 +9,7 @@ import java.util.function.Predicate;
 /**
  * @Author: Bruce Lee
  * @Date: 2021/4/25
- * @Description: 自定义断言
+ * @Description: 自定义断言;设置了比较规则，但是不知道如何将配置文件配置的值set到内部类的config中
  */
 @Component
 public class MyRoutePredicateFactory extends AbstractRoutePredicateFactory<MyRoutePredicateFactory.Config> {
