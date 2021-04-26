@@ -1,0 +1,28 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: demo-gateway-gwt
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.209.128:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+      enabled: true
+      routes:
+        - id: demo-gateway-gwt
+          uri: lb://nacos-provider
+          predicates:
+            - Path=/nacos-provider/**
+        - id: demo-gateway-sso
+          uri: lb://sso-provider
+          predicates:
+            #\u5982\u679C\u4EE5sso-provider\u5F00\u5934\uFF0C\u5339\u914D\u5230\u4E86uri
+            - Path=/sso-provider/**
+com:
+  demo:
+    example:
+      nocheck_path: /sso-provider/**

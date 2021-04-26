@@ -19,8 +19,25 @@ spring:
           ##\u65AD\u8A00\uFF0C\u8FDB\u884C\u4E00\u4E9B\u5224\u65AD\uFF0C\u81EA\u5B9A\u4E49\u65AD\u8A00 \u9700\u8981\u5B9E\u73B0AbstractRoutePredicateFactory  \u4F7F\u7528ZonedDateTime\u83B7\u53D6\u65F6\u95F4\u683C\u5F0F
           predicates:
             ##\u5C06path\u5904\u7684\u8DEF\u5F84\u62FC\u63A5\u5230 uri\u540E\u9762
-#            - Path=/aa/**
-            - My=30
+            - Path=/nacos-provider/**
+            ##name and args are in the same level
+#            - name: My
+#              args:
+#                length: 30
+            #\u5B9E\u73B0\u4E86AbstractGatewayFilterFactory\u63A5\u53E3
+            ##use , to splite name and value and user = to connect factoryName and value Mapping
+          filters:
+            ## inner filterFactory
+            - AddRequestHeader=X-Requested-With,lixc
+            ## myself filterFactory
+            - name: My
+              args:
+                name: aaa
+                value: bbbb
+            - name: MyNameValue
+              args:
+                name: MyNameValue
+                value: MyNameValue
 #            - Before=2021-05-25T11:56:39.135+08:00[Asia/Shanghai]
 #            \u591A\u4E2A\u7684\u60C5\u51B5\u4E0B\u53EF\u4EE5\u4F7F\u7528- name\u7684\u5F62\u5F0F\u8FDB\u884C\u914D\u7F6E
 #            - name: Cookie

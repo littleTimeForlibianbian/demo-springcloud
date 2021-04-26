@@ -1,4 +1,4 @@
-package com.example.demogateway;
+package com.example.demogateway.predicates;
 
 import org.springframework.cloud.gateway.handler.predicate.AbstractRoutePredicateFactory;
 import org.springframework.stereotype.Component;
