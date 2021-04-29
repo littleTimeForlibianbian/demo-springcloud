@@ -4,6 +4,9 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.data.redis.connection.RedisConnectionFactory;
+import org.springframework.data.redis.connection.RedisStandaloneConfiguration;
+import org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory;
 import org.springframework.jdbc.datasource.SimpleDriverDataSource;
 
 import java.lang.reflect.InvocationTargetException;
@@ -34,4 +37,7 @@ public class DataSourceConfig {
         dataSource.setDriver((Driver) o);
         return dataSource;
     }
+
+
+
 }

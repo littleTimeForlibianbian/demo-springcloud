@@ -33,5 +33,6 @@ public class MyResourceConfig extends ResourceServerConfigurerAdapter {
     public void configure(ResourceServerSecurityConfigurer resources) throws Exception {
         //资源服务器的资源id，必须与认证服务器授权的资源id一致
         resources.resourceId("order-provider");
+//        resources.r
     }
 }
